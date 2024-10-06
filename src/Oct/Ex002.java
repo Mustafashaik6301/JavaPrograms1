@@ -5,6 +5,6 @@ public class Ex002 {
        System.out.println(25+25); // Add
        System.out.println(25-25); // Sub
        System.out.println(25*25); // Mul
-       System.out.println(25/25); //Div
+       System.out.println(25/25); // Div
    }
 }
