@@ -1,6 +1,6 @@
 package Oct.ex_09102024;
 
-public class Ex09_02 {
+public class Ex005 {
     public static void main(String[] args) {
         char a = 'a';
         char b = 'b';

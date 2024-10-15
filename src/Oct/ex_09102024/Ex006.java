@@ -1,6 +1,6 @@
 package Oct.ex_09102024;
 
-public class Ex09_01 {
+public class Ex006 {
 
 
     public static void main(String[] args) {
