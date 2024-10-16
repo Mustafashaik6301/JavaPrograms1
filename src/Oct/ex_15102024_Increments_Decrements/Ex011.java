@@ -7,7 +7,7 @@ public class Ex011 {
         System.out.println(b);
         System.out.println(c);
         System.out.println(a+b+c);
-
-
+        System.out.println(a + b++ + a++);
+        System.out.println(a + ++b);
     }
 }
