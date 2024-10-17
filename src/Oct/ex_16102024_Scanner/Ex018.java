@@ -9,7 +9,7 @@ public class Ex018 {
         int digits = a.nextInt();
 
         System.out.print("Enter Name");
-        String S = a.nextLine();
+        String S = a.next();
 
         System.out.print("Enter Salary");
         float f = a.nextFloat();
