@@ -12,16 +12,17 @@ public class Ex019 {
         int i = a.nextInt();
         System.out.print("Enter DOB: ");
         String DOB = a.next();
+        String s = "17-10-2024";
 
         System.out.println("Name is :" + name);
         System.out.println("Age is:" + i);
         System.out.println("DOB is :" + DOB);
 
-        if (i==24)
+        if (DOB==s)
             System.out.println("Tomorrow is mine Birthday");
         else
             System.out.println("HM.......");
 
-
+            a.close();
     }
 }
